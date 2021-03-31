@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Net;
 using System.Net.Sockets;
+using NgwTask.Common;
 
 namespace NgwTask.Client
 {
@@ -8,11 +9,11 @@ namespace NgwTask.Client
     {
         static void Main(string[] args)
         {
-            const int port = 3061;
-            const string ip = "127.0.0.1";
             var socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            socket.Connect(new IPEndPoint(IPAddress.Parse(ip), port));
+            socket.Connect(new IPEndPoint(IPAddress.Parse(Config.Ip), Config.Port));
             Console.WriteLine("连接服务器成功");
+            var receive = new byte[1024];
+            socket.Receive(receive);
             Console.ReadLine();
         }
     }

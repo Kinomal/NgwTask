@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgwTask.Host", "NgwTask.Hos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgwTask.Client", "NgwTask.Client\NgwTask.Client.csproj", "{D9300826-4AC3-4989-A1C4-F483045E0803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgwTask.Common", "NgwTask.Common\NgwTask.Common.csproj", "{FB3B37D7-309B-41CD-9AEF-DA3F59570E22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D9300826-4AC3-4989-A1C4-F483045E0803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9300826-4AC3-4989-A1C4-F483045E0803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9300826-4AC3-4989-A1C4-F483045E0803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3B37D7-309B-41CD-9AEF-DA3F59570E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3B37D7-309B-41CD-9AEF-DA3F59570E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3B37D7-309B-41CD-9AEF-DA3F59570E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3B37D7-309B-41CD-9AEF-DA3F59570E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

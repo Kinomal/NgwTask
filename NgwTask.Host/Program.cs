@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using NgwTask.Common;
 
 namespace NgwTask.Host
 {
@@ -17,10 +18,15 @@ namespace NgwTask.Host
             Console.WriteLine("启动监听{0}成功", socket.LocalEndPoint);
             var clientSocket = socket.Accept();
             Console.WriteLine("客户端{0}成功连接", clientSocket.RemoteEndPoint);
-            while (true)
-            {
-                Thread.Sleep(5000);
-            }
+            var text = "测试发送";
+            clientSocket.Send(new MessageProtocol {Length = (byte) text.Length, Head = 1, Text = text}.ToByte());
+            //while (true)
+            //{
+            //    Thread.Sleep(5000);
+            //}
+            socket.Close();
+            clientSocket.Close();
+            Console.WriteLine();
         }
     }
 }
