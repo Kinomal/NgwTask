@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj": {}
+    "E:\\Coding\\NgwTask1\\NgwTask.Client\\NgwTask.Client.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj": {
+    "E:\\Coding\\NgwTask1\\NgwTask.Client\\NgwTask.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
+        "projectUniqueName": "E:\\Coding\\NgwTask1\\NgwTask.Client\\NgwTask.Client.csproj",
         "projectName": "NgwTask.Client",
-        "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
+        "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Client\\NgwTask.Client.csproj",
         "packagesPath": "C:\\Users\\30324\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\NgwTask\\NgwTask.Client\\obj\\",
+        "outputPath": "E:\\Coding\\NgwTask1\\NgwTask.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30324\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj": {
-                "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj"
+              "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj": {
+                "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj": {
+    "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj",
+        "projectUniqueName": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj",
         "projectName": "NgwTask.Common",
-        "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj",
+        "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj",
         "packagesPath": "C:\\Users\\30324\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\obj\\",
+        "outputPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30324\\AppData\\Roaming\\NuGet\\NuGet.Config",

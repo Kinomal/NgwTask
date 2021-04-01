@@ -7,3 +7,12 @@ E:\Coding\NgwTask\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.Assembly
 E:\Coding\NgwTask\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.csproj.CoreCompileInputs.cache
 E:\Coding\NgwTask\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.dll
 E:\Coding\NgwTask\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.pdb
+E:\Coding\NgwTask1\NgwTask.Common\bin\Debug\netcoreapp3.1\NgwTask.Common.deps.json
+E:\Coding\NgwTask1\NgwTask.Common\bin\Debug\netcoreapp3.1\NgwTask.Common.dll
+E:\Coding\NgwTask1\NgwTask.Common\bin\Debug\netcoreapp3.1\NgwTask.Common.pdb
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.csprojAssemblyReference.cache
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.AssemblyInfoInputs.cache
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.AssemblyInfo.cs
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.csproj.CoreCompileInputs.cache
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.dll
+E:\Coding\NgwTask1\NgwTask.Common\obj\Debug\netcoreapp3.1\NgwTask.Common.pdb

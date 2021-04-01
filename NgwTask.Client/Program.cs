@@ -64,7 +64,7 @@ namespace NgwTask.Client
             Console.WriteLine($"{head} {length} {text}");
             Console.WriteLine("");
             //写入文件
-            File.AppendAllText($"{Directory.GetCurrentDirectory()}/{Config.FileName}", text);
+            File.AppendAllText($"{Directory.GetCurrentDirectory()}/{Config.FileName}", text + "\r\n");
             return ReceiveData(remainBytes);
         }
     }
