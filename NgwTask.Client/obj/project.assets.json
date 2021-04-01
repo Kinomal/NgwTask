@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
+      "projectUniqueName": "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
       "projectName": "NgwTask.Client",
-      "projectPath": "G:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
+      "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Client\\NgwTask.Client.csproj",
       "packagesPath": "C:\\Users\\30324\\.nuget\\packages\\",
-      "outputPath": "G:\\Coding\\NgwTask\\NgwTask.Client\\obj\\",
+      "outputPath": "E:\\Coding\\NgwTask\\NgwTask.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30324\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,15 +47,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.service.osmws.com/nuget": {},
+        "http://nuget.service.xiaojiankeji.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj": {
-              "projectPath": "G:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj"
+            "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj": {
+              "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
