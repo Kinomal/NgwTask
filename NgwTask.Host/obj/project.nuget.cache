@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nh9xP3JPRRldboEzry7B2yw18HMd2TQSlZ9HXb2ApL5bz5ItdKg5Fov1Qs4hZ6tnp95r6wvEKKtKudiRQXWGCg==",
+  "dgSpecHash": "qnk6kr/FEzxi9qr8jH6zPrwtm9jl5ybn6DWyp2okUgo62rpeTx443IAEA4Gv03sSB+ayo65VzELNkhc+UVadeQ==",
   "success": true,
-  "projectFilePath": "E:\\Coding\\NgwTask1\\NgwTask.Host\\NgwTask.Host.csproj",
+  "projectFilePath": "E:\\Coding\\NgwTask\\NgwTask.Host\\NgwTask.Host.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

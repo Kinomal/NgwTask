@@ -1,9 +1,9 @@
-﻿using System;
+﻿using NgwTask.Common;
+using System;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using NgwTask.Common;
 
 namespace NgwTask.Client
 {
@@ -64,7 +64,7 @@ namespace NgwTask.Client
             Console.WriteLine($"{head} {length} {text}");
             Console.WriteLine("");
             //写入文件
-            File.AppendAllText($"{Directory.GetCurrentDirectory()}/{Config.FileName}", text + "\r\n");
+            File.AppendAllText(Directory.GetCurrentDirectory() + Config.FileName, text + "\r\n");
             return ReceiveData(remainBytes);
         }
     }

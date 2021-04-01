@@ -11,6 +11,6 @@
         //数据长读字节长度
         public const int DataLengthByteLength = 4;
         //日志文件目录
-        public const string FileName = "ReceiveData.txt";
+        public const string FileName = "/ReceiveData.txt";
     }
 }

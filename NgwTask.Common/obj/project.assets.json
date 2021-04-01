@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj",
+      "projectUniqueName": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj",
       "projectName": "NgwTask.Common",
-      "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj",
+      "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj",
       "packagesPath": "C:\\Users\\30324\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\obj\\",
+      "outputPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30324\\AppData\\Roaming\\NuGet\\NuGet.Config",

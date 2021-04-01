@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\NgwTask1\\NgwTask.Host\\NgwTask.Host.csproj",
+      "projectUniqueName": "E:\\Coding\\NgwTask\\NgwTask.Host\\NgwTask.Host.csproj",
       "projectName": "NgwTask.Host",
-      "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Host\\NgwTask.Host.csproj",
+      "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Host\\NgwTask.Host.csproj",
       "packagesPath": "C:\\Users\\30324\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\NgwTask1\\NgwTask.Host\\obj\\",
+      "outputPath": "E:\\Coding\\NgwTask\\NgwTask.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30324\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj": {
-              "projectPath": "E:\\Coding\\NgwTask1\\NgwTask.Common\\NgwTask.Common.csproj"
+            "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj": {
+              "projectPath": "E:\\Coding\\NgwTask\\NgwTask.Common\\NgwTask.Common.csproj"
             }
           }
         }
