@@ -19,7 +19,7 @@ namespace NgwTask.Client
             {
                 var receiveBytes = new byte[1024];
                 socket.Receive(receiveBytes);
-                Console.WriteLine($"接收数据");
+                Console.WriteLine("接收数据");
                 using var memoryStream = new MemoryStream();
                 if (lastRemainBytes != null)
                 {
